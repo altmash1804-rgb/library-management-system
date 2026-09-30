@@ -1,0 +1,9 @@
+# Python generated files and folders - safe to ignore
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment folders
+.venv/
+venv/
+env/
